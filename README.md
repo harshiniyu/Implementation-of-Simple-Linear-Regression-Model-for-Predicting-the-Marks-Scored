@@ -82,11 +82,14 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 ![image](https://github.com/user-attachments/assets/ba34ac79-9bfb-40bc-80cb-744c6231dcc9)
+
 ![image](https://github.com/user-attachments/assets/399c129a-6c12-402d-af08-7f9aad5d90ed)
+
 ![image](https://github.com/user-attachments/assets/e4af45fd-6680-4ef7-a918-4d592ced24e1)
+
 ![image](https://github.com/user-attachments/assets/5957cd94-ef8f-4162-9547-f07bbad05165)
+
 ![image](https://github.com/user-attachments/assets/07a7dddd-d3b8-4edb-a19c-b68098d84de1)
 
 
